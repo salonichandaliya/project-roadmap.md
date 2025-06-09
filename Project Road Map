@@ -1,0 +1,43 @@
+# EstiMate Project Roadmap
+
+## Vision
+Build EstiMate, an AI-powered cost estimation tool for interiors, renovations, and new constructions, starting with a Modular Kitchen MVP.
+
+---
+
+## Phases & Milestones
+
+### Phase 1: Research & Data Collection
+- Collect pricing data (materials, labor) for kitchens in Tier 1 Indian cities.
+- Study existing estimation methods.
+- Gather design styles & finish quality data.
+
+### Phase 2: AI Prompt Design & Logic
+- Write GPT prompts for estimating costs.
+- Define logic & formulas for breakdowns.
+
+### Phase 3: UI Wireframes & Prototype
+- Create design mockups for user inputs & outputs.
+- Prepare moodboards and sample visuals.
+
+### Phase 4: Development & Testing
+- Work with developers to build MVP.
+- Test accuracy & UX.
+
+---
+
+## Collaborators & Roles
+- Saloni Chandaliya: Product vision, design, pricing data
+- Developers: AI integration, web app build
+- Designers: UI/UX
+- Data analysts: Pricing validation
+
+---
+
+## Success Metrics
+- Accurate cost estimates within 10% of actual market prices.
+- Positive user feedback.
+- Collaboration with at least 3 industry experts.
+
+---
+
